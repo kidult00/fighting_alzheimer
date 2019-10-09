@@ -1,6 +1,12 @@
 # Fighting Alzheimer's disease
 [Alzheimer’s 豆列](https://www.douban.com/doulist/113907445/)
 
+## 00 原创的科普视频
+
+[脑中的橡皮擦——阿尔茨海默病的预防和干预_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av70538776/)
+
+![](https://i1.hdslb.com/bfs/archive/ecfb44bf978bfc577e3b9de31541a64da8f70568.jpg)
+
 ## Websites
 
 [Alzheimer's Association | Alzheimer's Disease & Dementia Help](https://www.alz.org/)
@@ -25,7 +31,7 @@
 
 2012，[The Alzheimer's Prevention Program](https://book.douban.com/subject/23773722/) 
 
-![](https://img3.doubanio.com/view/subject/l/public/s26360853.jpg)
+<img src="https://img3.doubanio.com/view/subject/l/public/s26360853.jpg" style="zoom:50%;" />
 
 
 
@@ -43,7 +49,7 @@
 
 2016，PBS，[NOVA: Can Alzheimer's Be Stopped DVD](https://shop.pbs.org/nova-can-alzheimers-be-stopped-dvd/product/NOVA6320)
 
-![](https://shop.pbs.org/ccstore/v1/images/?source=/file/v8066571553262860779/products/NOVA6320.0.jpg&height=940&width=940)
+<img src="https://shop.pbs.org/ccstore/v1/images/?source=/file/v8066571553262860779/products/NOVA6320.0.jpg&amp;height=940&amp;width=940" style="zoom:50%;" />
 
 
 
@@ -65,6 +71,10 @@
 
 [Lisa Genova: What you can do to prevent Alzheimer's | TED Talk](https://www.ted.com/talks/lisa_genova_what_you_can_do_to_prevent_alzheimer_s)
 
+[The resistant brain: nourishing our bodies against Alzheimer’s | Owen Carmichael | TEDxLSU - YouTube](https://www.youtube.com/watch?v=hnnv5EO1Xfw)
+
+[Detect and prevent Alzheimer’s disease before memory loss | Bernard Hanseeuw | TEDxUCLouvain - YouTube](https://www.youtube.com/watch?v=WQvfNG9bkz0)
+
 ## Repos
 
 [Sapphirine/Alzheimers_Diagnosis_StageDetermination: E6893 Final Project for ja3130, mn2769, and hz2441 (Project ID: 201712-18)](https://github.com/Sapphirine/Alzheimers_Diagnosis_StageDetermination) | Latest commit [4211128](https://github.com/Sapphirine/Alzheimers_Diagnosis_StageDetermination/commit/4211128e62950a1ade105d31dae0377087bfdbc9) on Dec 22, 2017
@@ -77,5 +87,7 @@
 
 [torinmb/Alzheimers_Flashing_Gamma_Lights: Arduino + LED strip flashing at 40hz for Alzheimers](https://github.com/torinmb/Alzheimers_Flashing_Gamma_Lights) | Latest commit [ed4319d](https://github.com/torinmb/Alzheimers_Flashing_Gamma_Lights/commit/ed4319d3d7814b844f825f2ed2e7a60339c9754c) on Mar 30, 2017
 
+## 世界阿尔茨海默病日
 
+[中国疾病预防控制中心](http://www.chinacdc.cn/yyrdgz/201909/t20190921_205709.html)
 
