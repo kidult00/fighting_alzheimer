@@ -15,6 +15,8 @@
 
 [WHO | Ageing and Life Course](https://www.who.int/ageing/en/)
 
+[Alzheimer's Disease International](https://www.alz.co.uk/)
+
 [Alzheimer's Disease Fact Sheet - NIH](https://www.nia.nih.gov/health/alzheimers-disease-fact-sheet)
 
 [Alzheimer's Prevention](http://alzheimersprevention.org/)
